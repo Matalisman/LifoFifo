@@ -2,7 +2,7 @@ package lifoandfifostacks;
 
 /**
  *
- * @author Karola
+ * @author Mateusz
  */
 public class Message {
     private String title;

@@ -9,7 +9,7 @@ import javax.swing.JCheckBox;
 
 /**
  *
- * @author Karola
+ * @author Mateusz
  */
 public class ConvertPriorityToString {
     String priority;

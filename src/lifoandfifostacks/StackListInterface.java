@@ -7,7 +7,7 @@ package lifoandfifostacks;
 
 /**
  *
- * @author Karola
+ * @author Mateusz
  */
 public interface StackListInterface {
     void add(String title, String description, String priority);

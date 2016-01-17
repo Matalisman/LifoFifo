@@ -7,7 +7,7 @@ package lifoandfifostacks;
 
 /**
  *
- * @author Karola
+ * @author Mateusz
  */
 public class MessageWindow extends javax.swing.JFrame {
 

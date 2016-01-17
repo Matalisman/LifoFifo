@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Karola
+ * @author Mateusz
  */
 public class LifoAndFifoStacks extends javax.swing.JFrame {
 

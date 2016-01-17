@@ -9,7 +9,7 @@ import java.util.LinkedList;
 
 /**
  *
- * @author Karola
+ * @author Mateusz
  */
 public class LifoList extends LinkedList<Message> implements StackListInterface{
      @Override
